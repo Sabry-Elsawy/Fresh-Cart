@@ -1,0 +1,1 @@
+import{B as t,nb as o}from"./chunk-QPUKSS23.js";var s=(r,n)=>{let e=t(o);return typeof window<"u"&&typeof localStorage<"u"?localStorage.getItem("userToken")?!0:(e.navigate(["/auth/login"]),!1):(e.navigate(["/auth/login"]),!1)};export{s as a};
